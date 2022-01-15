@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="split-joint.hpp">
+    <ClInclude Include="split-join.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="split-joint.cpp">
+    <ClCompile Include="split-join.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
